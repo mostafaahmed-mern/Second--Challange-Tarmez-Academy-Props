@@ -51,6 +51,6 @@ Make sure you have Node.js and npm installed:
 ```bash
 node -v
 npm -v
-
-
+```
+<img width="1899" height="918" alt="0 6" src="https://github.com/user-attachments/assets/25afa185-ccab-4d91-a963-8f2c2286dd31" />
 
